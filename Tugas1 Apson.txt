@@ -1,0 +1,7 @@
+Tugas Pertemuan 1
+Backend adalah bagian tentang database/server (arsitektur) dari sebuah aplikasi (web, android, ios). 
+Mengintegrasi API untuk front end.
+Pekerjaan yang akan dilakukan seorang backend dev adalah dibagian struktur suatu aplikasi (web, android, ios). 
+Menggunakan Terminal untuk melakukan perintah bisa di CMD, Git Bash atau VS Code.
+Menginstal alat tempur awal untuk menjadi backend dev seperti, Git, VS Code, dan Node.Js. 
+Banyak code-code perintah yang masih terdengar asing hahaha  
